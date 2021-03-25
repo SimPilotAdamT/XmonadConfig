@@ -12,4 +12,4 @@ To use my configs for Xmonad, git clone this repo, then move the files in the `X
 * Conky
 
 ## Custom keybinds
-I kept most of the keybinds as default, but I *did* set `ctrl+z` to restart and `ctrl+x` to shutdown.
+I kept most of the keybinds as default, but I *did* set `mod+ctrl+z` to restart and `mod+ctrl+x` to shutdown, and I set `mod4mask` (the Super/Windows key) as my mod key.
