@@ -1,1 +1,6 @@
 .git
+.xmonad/xmonad-86_64-linux
+.xmonad/xmonad.errors
+.xmonad/xmonad.hi
+.xmonad/xmonad.hs.save
+.xmonad/xmonad.o
